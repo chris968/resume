@@ -1,44 +1,31 @@
 ---
-title: Viktor Vaughn
+title: Christophe Aubry
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
+###### [ [LinkedIn](https://www.linkedin.com/in/c-aubry-be) ] - [ [Github](https://www.github.com/chris968) ] - [ me@c-aubry.be ]
+#### System and infrastructure engineer passionate by open-source technologies and infrastructures automation.
 
 ## Skills
-```Project management```
-```Team leadership```
-```Budget management```
-```Communication```
-```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
-```SQL```
+```Idenpendent```
+```Autonomous```
+```Continous learning```
+```Passion driven```
+```Security oriented```
 
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+**Languages**: Terraform, Ansible, Bash, Golang
+**Systems**: Linux, Kubernetes, KVM, docker, openstack
+**Security**: Shorewall, ufw, SELinux, CrowdSec, fail2ban
+**monitoring**: SNMP, logcheck, journal-brief
+**Tools**: Git, Vagrant, CI/CD, RestAPI, ...
 
 ## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
+### Tessares
+##### System and Infrastructure Engineer, January 2018 - Present
+- manage on-premises, hosted and cloud organization's IT assets.
+- provide technical support to the whole team.
+- enforce security for the overall IT infrastructure and assets.
 
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
-
-
-## Projects
-**[*resume-md*](http://www.github.com/siph/resume-md)**
-
-Build your resume using markdown and have it generated as a pdf and html.
-
-## Education
-
-### Reno University
-**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
+### Keysource
+##### Support and System Engineer, June 2007 - January 2018
+- Design and deployment of a hosted IT infrastructure to support customers IT services.
+- Manage level 1 technical support for customers.
+- Provide level 2 technical support for customers.
