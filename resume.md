@@ -11,10 +11,10 @@ title: Christophe Aubry
 ```Passion driven```
 ```Security oriented```
 
-**Languages**: Terraform, Ansible, Bash, Golang
-**Systems**: Linux, Kubernetes, KVM, docker, openstack
-**Security**: Shorewall, ufw, SELinux, CrowdSec, fail2ban
-**monitoring**: SNMP, logcheck, journal-brief
+**Languages**: Terraform, Ansible, Bash, Golang  
+**Systems**: Linux, Kubernetes, KVM, docker, openstack  
+**Security**: Shorewall, ufw, SELinux, CrowdSec, fail2ban  
+**monitoring**: SNMP, logcheck, journal-brief  
 **Tools**: Git, Vagrant, CI/CD, RestAPI, ...
 
 ## Experience
