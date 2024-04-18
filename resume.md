@@ -20,12 +20,12 @@ title: Christophe Aubry
 ## Experience
 ### Tessares
 ##### System and Infrastructure Engineer, January 2018 - Present
-- manage on-premises, hosted and cloud organization's IT assets.
-- provide technical support to the whole team.
-- enforce security for the overall IT infrastructure and assets.
+provide technical support to the whole team.  
+enforce security for the overall IT infrastructure and assets.  
+manage on-premises, hosted and cloud organization's IT assets.
 
 ### Keysource
 ##### Support and System Engineer, June 2007 - January 2018
-- Design and deployment of a hosted IT infrastructure to support customers IT services.
-- Manage level 1 technical support for customers.
-- Provide level 2 technical support for customers.
+Manage level 1 technical support for customers.  
+Provide level 2 technical support for customers.  
+Design and deployment of a hosted IT infrastructure to support customers IT services.

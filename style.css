@@ -510,13 +510,13 @@ h6 {
     padding: 0;
     font-weight: bold;
     -webkit-font-smoothing: subpixel-antialiased;
-    cursor: text
+    cursor: text;
+    text-align: center
 }
 
 h1 {
     font-size: 37px;
-    color: #000;
-    text-align: center
+    color: #000
 }
 
 h2 {
@@ -556,7 +556,8 @@ p,
 blockquote,
 table,
 pre {
-    margin: 15px 0
+    margin: 15px 0;
+    text-align: center
 }
 
 ul {
