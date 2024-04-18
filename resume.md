@@ -2,7 +2,7 @@
 title: Christophe Aubry
 ---
 ###### [ [LinkedIn](https://www.linkedin.com/in/c-aubry-be) ] - [ [Github](https://www.github.com/chris968) ] - [ me@c-aubry.be ]
-#### System and infrastructure engineer passionate by open-source technologies and infrastructures automation.
+#### System and infrastructure engineer skilled in open-source technologies and automation.
 
 ## Skills
 ```Idenpendent```
