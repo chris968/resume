@@ -38,7 +38,7 @@
         packages = {
           default = stdenvNoCC.mkDerivation {
             inherit buildInputs buildPhase;
-            name = "resume_md";
+            name = "resume";
             src = ./.;
             installPhase = ''
               mkdir -p $out/resume
@@ -50,7 +50,7 @@
         checks = {
           default = stdenvNoCC.mkDerivation {
             inherit buildInputs buildPhase;
-            name = "resume-md checks";
+            name = "resume checks";
             src = ./.;
             installPhase = ''
               mkdir -p $out

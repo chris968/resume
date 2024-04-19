@@ -1,4 +1,4 @@
-# Resume-md
+# Resume
 
 This project allows you to write and maintain your resume in markdown. GitHub
 Actions is used to generate stylized PDF and HTML files based on `resume.md`
@@ -29,7 +29,7 @@ the HTML file as a static website.
 
 ### Local
 
-`Resume-md` uses [`nix`](https://www.nixos.org) to manage all dependencies and
+`Resume` uses [`nix`](https://www.nixos.org) to manage all dependencies and
 to produce build outputs. As a result, any machine with `nix` installed can run
 a simple build command to produce the stylized resumes.
 ```shell
