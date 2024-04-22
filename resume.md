@@ -15,9 +15,9 @@ title: Christophe Aubry
 **Systems**: Linux, Kubernetes, KVM, docker, openstack  
 **Security**: Shorewall, ufw, SELinux, CrowdSec, fail2ban  
 **monitoring**: SNMP, logcheck, journal-brief  
-**Tools**: Git, Vagrant, CI/CD, RestAPI, ...
+**Tools**: Git, Vagrant, earthly, docker-compose, CI/CD, RestAPI, ...
 
-## Experience
+## Experiences
 ### Tessares
 ##### System and Infrastructure Engineer, January 2018 - Present
 provide technical support to the whole team.  
