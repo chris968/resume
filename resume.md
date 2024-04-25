@@ -31,3 +31,7 @@ ISO27001 security committe member.
 Manage level 1 technical support for customers.  
 Provide level 2 technical support for customers.  
 Design and deployment of a hosted IT infrastructure to support customer IT services.
+
+## Languages
+**French**: Native  
+**English**: B2
