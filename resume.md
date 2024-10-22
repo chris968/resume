@@ -11,13 +11,19 @@ title: Christophe Aubry
 ```Passion driven```
 ```Security oriented```
 
-**Languages**: Terraform, Ansible, Bash, Golang  
+**Languages**: Terraform, Ansible, Puppet, Bash, Golang  
 **Systems**: Linux, Kubernetes, Helm Charts, KVM, docker, docker-compose, openstack  
 **Security**: Shorewall, ufw, SELinux, CrowdSec, fail2ban  
 **monitoring**: SNMP, logcheck, journal-brief  
 **Tools**: Git, Vagrant, earthly, docker-compose, CI/CD, RestAPI, ...
 
 ## Experience
+
+### Actito
+#### Infrastructure Engineer, July 2024 - Present
+Design and manage on-premises, hosted and cloud infrastructures.  
+Implement security on the IT infrastructures in order to comply to ISO 27001 standard.  
+
 ### Tessares
 ##### System and Infrastructure Engineer, January 2018 - Present
 Provide technical support to the whole team.  
