@@ -42,14 +42,6 @@ jobs:
       run: |
         mkdir public
         cp out/${{ github.actor }}_resume.html public/index.html
-        if [ -s CNAME ]; then
-          cp CNAME public/CNAME
-        fi
-    - name: Publish on githug pages
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
     - name: Publish on surge.sh
       run: |
         npm install --global surge
