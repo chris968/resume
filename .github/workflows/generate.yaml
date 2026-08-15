@@ -30,6 +30,9 @@ jobs:
     needs: generate
     steps:
     - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
     - name: Retrieve Artifacts
       uses: actions/download-artifact@v4
       with:
@@ -42,18 +45,16 @@ jobs:
         if [ -s CNAME ]; then
           cp CNAME public/CNAME
         fi
-    - name: Deploy
+    - name: Publish on githug pages
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
     - name: Publish on surge.sh
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
-    - run: |
-        npm ci && npm run build
-        run: npx surge ./public resume.c-aubry.be
+      run: |
+        npm install && npm run build
+        npm install --global surge
+        surge ./public resume.c-aubry.be
       env:
         SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
     - name: Set Tag
